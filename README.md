@@ -49,10 +49,15 @@ Modeller, aşağıdaki metrikler kullanılarak değerlendirildi:
 Validation Set Performance:
 
                 Model  Accuracy  Precision    Recall  F1-Score
+                
 0        RandomForest  0.969618   0.975309  0.965377  0.970317
+
 1  LogisticRegression  0.765846   0.771023  0.774949  0.772981
+
 2        DecisionTree  0.962284   0.963340  0.963340  0.963340
+
 3             XGBoost  0.979047   0.975758  0.983707  0.979716
+
 4                 SVC  0.515977   0.524493  0.632383  0.573407
 
 ### En İyi Model
