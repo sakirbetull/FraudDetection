@@ -87,3 +87,5 @@ Gece saatlerinde yapılan işlemler dolandırıcılık açısından daha riskli 
 Herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçin:
 
 E-posta: sakirbetul@outlook.com
+
+[Kaggle Linki]:https://www.kaggle.com/code/betlakr/frauddetection
